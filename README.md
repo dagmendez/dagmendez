@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **da.gi.me@protonmail.com**
 
+<h3 align="left">My blog posts</h3>
+
+- [How to save time and money by testing Spark locally](https://www.47deg.com/blog/how-to-test-spark/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/davidgilmendez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidgilmendez" height="30" width="40" /></a>
