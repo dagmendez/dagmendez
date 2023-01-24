@@ -14,6 +14,7 @@
 <h3 align="left">My blog posts</h3>
 
 - [How to save time and money by testing Spark locally](https://www.47deg.com/blog/how-to-test-spark/)
+- [Fundamentals of Data Engineering](https://xebia.com/blog/fundamentals-of-data-engineering/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
