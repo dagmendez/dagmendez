@@ -13,8 +13,9 @@
 
 <h3 align="left">My blog posts</h3>
 
-- [How to save time and money by testing Spark locally](https://www.47deg.com/blog/how-to-test-spark/)
+- [How to save time and money by testing Spark locally](https://xebia.com/blog/how-to-save-time-and-money-by-testing-spark-locally/)
 - [Fundamentals of Data Engineering](https://xebia.com/blog/fundamentals-of-data-engineering/)
+- [Crafting Concise Constructors with Opaque Types in Scala 3](https://xebia.com/blog/crafting-concise-constructors-opaque-types-scala-3/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
