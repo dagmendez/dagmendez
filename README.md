@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate Data Engineer from Spain</h3>
+<h3 align="center">A passionate Forward Deployed Engineer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagmendez&label=Profile%20views&color=0e75b6&style=flat" alt="dagmendez" /> </p>
 
-- 🌱 I’m currently learning **ephemeral architecture, design patterns and functional programming**
+- 🌱 I’m currently learning **AI, formal verification, harness engineering**
 
-- 🤝 I’m looking for help with [teaching Scala in Spanish](https://github.com/dagmendez/scala-basico)
-
-- 💬 Ask me about **Spark written in Scala**
+- 💬 Ask me about **Scala**
 
 - 📫 How to reach me **da.gi.me@protonmail.com**
 
